@@ -1,0 +1,9 @@
+#Declarando constantes
+
+MINHA_CONSTANTE = 10
+
+print(MINHA_CONSTANTE) #10
+
+MINHA_CONSTANTE = 15
+
+print(MINHA_CONSTANTE)#15
